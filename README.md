@@ -9,4 +9,4 @@ Average accuracy: 84%
 
 Model structure:
 
-![image](https://github.com/Asquator/sentiment-analysis/assets/92979391/785f38a0-8825-403e-8e43-456b7e47304e)
+![model structure](https://github.com/Asquator/sentiment-analysis/assets/92979391/823e6f06-9f3c-4daa-8095-062f3b7fddc6)
